@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[ 一个偷懒的工程师 ]
+[ 一个偷懒的工程师 🌱 ]
 
 <!--
 **IceFRain/IceFRain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
